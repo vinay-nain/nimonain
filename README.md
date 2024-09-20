@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - vinaynian024@gmail.com
+- 📫 How to reach me - nain46600@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: a square has size sides
 
