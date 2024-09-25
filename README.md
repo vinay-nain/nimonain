@@ -1,3 +1,4 @@
+<h4>&U+1F44B;Hi I'm Vinay Nain</h4>
 - 👋 Hi, I’m @nimonain
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning machine learning
