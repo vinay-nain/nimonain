@@ -9,7 +9,7 @@
 <br>
 - 😄 Pronouns: he/him
 <br>
-- ⚡ Fun fact: a square has size sides
+- ⚡ Fun fact: a square has four sides
 
 <!---
 nimonain/nimonain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
